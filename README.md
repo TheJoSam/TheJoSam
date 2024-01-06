@@ -1,7 +1,7 @@
 Hello I'm @TheJoSam, leader of TheJoSam Development
 
 I master the Python language and also some others
-with Certifications from [FreeCodeCamp](freecodecamp.org)
+with Certifications from [FreeCodeCamp](freecodecamp.org) and [Codecademy](https://www.codecademy.com/profiles/TheJoSam)
 
 currently I'm working on the Discord Bot framework on my profile
 
