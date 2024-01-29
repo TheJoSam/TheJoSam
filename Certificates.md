@@ -11,6 +11,7 @@ This Libary will grow overtime and I have many other Courses currently.
 - [Fundamentals Of Cybersecurity Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/06984a073b064e61879cca3e82a9b3d2) January 24, 2024
 - [OWASP Top 10: Security Logging and Monitoring Failures Course](https://www.codecademy.com/profiles/TheJoSam/certificates/f28f1463e9cf4a6ea8f8701f0e012681) January 26, 2024
 - [OWASP Top 10: Security Misconfiguration Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0beba7e2eabe433a9ba9f9f6b6e595cc) January 26, 2024
+- [Cybersecurity for Business Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a257b12a3d49d7ab75c20ea15e7d88) January 29, 2024
 
 ## 2023
 - [Learn Color Design Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0a6884fad1dbf4afe5df084d2ec1e7c3) January 25, 2023
