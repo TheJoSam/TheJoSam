@@ -1,10 +1,10 @@
 # Certificates
 I am an Certified Developer,
-this is an complete list of them with DOC and direct link.
+this is an complete list of them with DOC (Document of Completion) and direct link.
 
-If an Certificate is not listed here you can still find them [here](https://www.codecademy.com/profiles/TheJoSam).
 This Libary will grow overtime and I have many other Courses currently.
 
+---
 > [!NOTE]
 > Certificates cannot be fully categorized as they sometimes flow into eachother or are Certificates of an Programming Language
 > this makes categorizing harder and is not always possible so please look at all Certificates as I will (for clarity) only list
