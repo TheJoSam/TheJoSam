@@ -7,8 +7,7 @@ This Libary will grow overtime and I have many other Courses currently.
 ---
 > [!NOTE]
 > Certificates cannot be fully categorized as they sometimes flow into eachother or are Certificates of an Programming Language
-> this makes categorizing harder and is not always possible so please look at all Certificates as I will (for clarity) only list
-> each Certificate one time.
+> this makes categorizing harder and is not always possible so please look at all Certificates as I will list them only one time.
 
 ### Universal Certificates
 - [Code Foundations Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/5b55e668646caa552f8e4d1d) October 10, 2023
@@ -23,6 +22,10 @@ This Libary will grow overtime and I have many other Courses currently.
 
 ### Bash
 - [Learn the Command Line Course](https://www.codecademy.com/profiles/TheJoSam/certificates/c87ba0541f8be78bc2f4ba1128233f6f) January 8, 2024
+
+### Linux (And similar)
+- [Introduction to Linux: Users and Permissions Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0ff749b093ff48348b8b1b506f0903aa) April 21, 2023
+- [Introduction to Linux: Installation Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a7afb40f7a4567931961bf1624b4b3) April 21, 2023
 - [Learn Raspberry Pi: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e5d0f9258b754ba88f14abde6a5fe2d7) January 30, 2024
 - [Learn Raspberry Pi: Electronics Course](https://www.codecademy.com/profiles/TheJoSam/certificates/097406f8d52f46519be523507a6a73f7) January 30, 2024
 
@@ -37,8 +40,6 @@ This Libary will grow overtime and I have many other Courses currently.
 
 ### Computer Science
 - [Choosing a Programming Language Course](https://www.codecademy.com/profiles/TheJoSam/certificates/3d1976adb480406197a8e8765fe3f884) April 17, 2023
-- [Introduction to Linux: Users and Permissions Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0ff749b093ff48348b8b1b506f0903aa) April 21, 2023
-- [Introduction to Linux: Installation Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a7afb40f7a4567931961bf1624b4b3) April 21, 2023
 - [Learn How to Code Course](https://www.codecademy.com/profiles/TheJoSam/certificates/11a686a7fd57b8c214f7f92749388d42) October 10, 2023
 
 > [!TIP]
