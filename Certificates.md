@@ -23,6 +23,8 @@ This Libary will grow overtime and I have many other Courses currently.
 
 ### Bash
 - [Learn the Command Line Course](https://www.codecademy.com/profiles/TheJoSam/certificates/c87ba0541f8be78bc2f4ba1128233f6f) January 8, 2024
+- [Learn Raspberry Pi: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e5d0f9258b754ba88f14abde6a5fe2d7) January 30, 2024
+- [Learn Raspberry Pi: Electronics Course](https://www.codecademy.com/profiles/TheJoSam/certificates/097406f8d52f46519be523507a6a73f7) January 30, 2024
 
 ### Web Design
 - [Learn Color Design Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0a6884fad1dbf4afe5df084d2ec1e7c3) January 25, 2023
