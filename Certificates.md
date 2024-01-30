@@ -19,6 +19,7 @@ This Libary will grow overtime and I have many other Courses currently.
 - [OWASP Top 10: Security Logging and Monitoring Failures Course](https://www.codecademy.com/profiles/TheJoSam/certificates/f28f1463e9cf4a6ea8f8701f0e012681) January 26, 2024
 - [OWASP Top 10: Security Misconfiguration Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0beba7e2eabe433a9ba9f9f6b6e595cc) January 26, 2024
 - [Cybersecurity for Business Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a257b12a3d49d7ab75c20ea15e7d88) January 29, 2024
+- [Introduction to Cybersecurity Course](https://www.codecademy.com/profiles/TheJoSam/certificates/de0bd5c89521d004ce449a86b0ad3319) January 30, 2024
 
 ### Bash
 - [Learn the Command Line Course](https://www.codecademy.com/profiles/TheJoSam/certificates/c87ba0541f8be78bc2f4ba1128233f6f) January 8, 2024
