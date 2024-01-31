@@ -11,6 +11,7 @@ This Libary will grow overtime and I have many other Courses currently.
 
 ### Universal Certificates
 - [Code Foundations Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/5b55e668646caa552f8e4d1d) October 10, 2023
+- [Introduction to Project Management Course](https://www.codecademy.com/profiles/TheJoSam/certificates/ea041b16233a4bd8a4f30c1dec884ebd) January 31, 2024
 
 ### Cybersecurity
 - [Introduction to Personal Digital Security Course](https://www.codecademy.com/profiles/TheJoSam/certificates/7c3ebc633190492884fdd3a8df67102e) January 5, 2024
