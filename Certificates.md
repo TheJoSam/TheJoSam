@@ -27,6 +27,7 @@ This Libary will grow overtime and I have many other Courses currently.
 ### Linux (And similar)
 - [Introduction to Linux: Users and Permissions Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0ff749b093ff48348b8b1b506f0903aa) April 21, 2023
 - [Introduction to Linux: Installation Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a7afb40f7a4567931961bf1624b4b3) April 21, 2023
+- [Introduction to Linux: Bash Scripting Course](https://www.codecademy.com/profiles/TheJoSam/certificates/eed44424eb684a0aaddf054e46c50567) February 3, 2024
 - [Learn Raspberry Pi: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e5d0f9258b754ba88f14abde6a5fe2d7) January 30, 2024
 - [Learn Raspberry Pi: Electronics Course](https://www.codecademy.com/profiles/TheJoSam/certificates/097406f8d52f46519be523507a6a73f7) January 30, 2024
 
