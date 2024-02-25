@@ -1,17 +1,18 @@
 # Certificates
-I am an Certified Developer,
-this is an complete list of them with DOC (Document of Completion) and direct link.
+I am a Certified Developer,
+this is a complete list of them with DOC (Document of Completion) and direct link.
 
-This Libary will grow overtime and I have many other Courses currently.
+This Libary will grow over time and I have many other Courses currently.
 
 ---
 > [!NOTE]
-> Certificates cannot be fully categorized as they sometimes flow into eachother or are Certificates of an Programming Language
-> this makes categorizing harder and is not always possible so please look at all Certificates as I will list them only one time.
+> Certificates cannot be fully categorized as they sometimes flow into each other or are Certificates of a Programming Language
+> This makes categorizing harder and is not always possible so please look at all Certificates as I will list them only one time.
 
 ### Universal Certificates
 - [Code Foundations Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/5b55e668646caa552f8e4d1d) October 10, 2023
 - [Introduction to Project Management Course](https://www.codecademy.com/profiles/TheJoSam/certificates/ea041b16233a4bd8a4f30c1dec884ebd) January 31, 2024
+- [Deploying Websites using Git and GitHub Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5e4c6705f21846aea9ab451bcbfb38ed) February 25, 2024
 
 ### Cybersecurity
 - [Introduction to Personal Digital Security Course](https://www.codecademy.com/profiles/TheJoSam/certificates/7c3ebc633190492884fdd3a8df67102e) January 5, 2024
@@ -45,4 +46,4 @@ This Libary will grow overtime and I have many other Courses currently.
 - [Learn How to Code Course](https://www.codecademy.com/profiles/TheJoSam/certificates/11a686a7fd57b8c214f7f92749388d42) October 10, 2023
 
 > [!TIP]
-> If you dont find an Certificate or think there could be more. Please look [here](https://www.codecademy.com/profiles/TheJoSam).
+> If you don't find a Certificate or think there could be more. Please look [here](https://www.codecademy.com/profiles/TheJoSam).
