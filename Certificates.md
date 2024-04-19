@@ -44,6 +44,7 @@ This Libary will grow over time and I have many other Courses currently.
 ### Computer Science
 - [Choosing a Programming Language Course](https://www.codecademy.com/profiles/TheJoSam/certificates/3d1976adb480406197a8e8765fe3f884) April 17, 2023
 - [Learn How to Code Course](https://www.codecademy.com/profiles/TheJoSam/certificates/11a686a7fd57b8c214f7f92749388d42) October 10, 2023
+- [Computer Architecture: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/279cc7d4cc4c4ca7b37677ca314f466c) April 19, 2024
 
 > [!TIP]
 > If you don't find a Certificate or think there could be more. Please look [here](https://www.codecademy.com/profiles/TheJoSam).
