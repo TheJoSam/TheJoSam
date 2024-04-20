@@ -41,13 +41,13 @@ This Libary will grow over time and I have many other Courses currently.
 
 ### Web Design
 - [Learn Color Design Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0a6884fad1dbf4afe5df084d2ec1e7c3) January 25, 2023
-  ##### HTML
+- ##### HTML
   - [Learn HTML Course](https://www.codecademy.com/profiles/TheJoSam/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7) January 26, 2023
   - [Learn HTML: Fundamentals Course](https://www.codecademy.com/profiles/TheJoSam/certificates/c6f2b55a48f440a6a876686f7487e1a7) April 20, 2024
   - [Learn HTML: Forms Course](https://www.codecademy.com/profiles/TheJoSam/certificates/13f68dfe9ab344dc929ddaf58daff3a8) April 20, 2024
   - [Learn HTML: Tables Course](https://www.codecademy.com/profiles/TheJoSam/certificates/9477c6a366f84e96b707fa371d6fcc81) April 20, 2024
   - [Learn HTML: Semantic HTML Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5b2b97b04c9948bfb45c5e6f17498a7f) April 20, 2024
-  ##### CSS
+- ##### CSS
   - [Learn CSS Course](https://www.codecademy.com/profiles/TheJoSam/certificates/9a5bb1fc45b4281af1fffec93b0aaf05) April 20, 2024
   - [Learn CSS: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/9da84567e8ff414b91f0b23d917fb42f) April 20, 2024
   - [Learn CSS: Colors Course](https://www.codecademy.com/profiles/TheJoSam/certificates/c1da07a0045d4531b3eec36deb0e25f8) April 20, 2024
