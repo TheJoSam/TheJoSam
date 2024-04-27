@@ -66,6 +66,7 @@ This Libary will grow over time and I have many other Courses currently.
 * [Excel Basics Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5b9a2fc11f7242e1b1a4fe1fbd1bf464) April 25, 2023[^1]
 
 ### Python
+- [Learn Python 3 Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6c152bd262967f8c941c9707ed636bda) April 27, 2024
 - [How to Clean Data with Python Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e773a003314c1be60da8388a90a77e78) January 26, 2023
 
 ### Computer Science
