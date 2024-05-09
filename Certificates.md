@@ -17,6 +17,9 @@ This Libary will grow over time and I have many other Courses currently.
 - [Deploying Websites using Git and GitHub Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5e4c6705f21846aea9ab451bcbfb38ed) February 25, 2024
 - [Learn GitHub: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/047c980c46ab4dd782820437fedbd42d) April 22, 2024
 
+### AI
+- [Intro to Generative AI Course](https://www.codecademy.com/profiles/TheJoSam/certificates/28ccb695c353465a8785a036ad32d3b9) May 9, 2024
+
 ### Cybersecurity
 - [Introduction to Personal Digital Security Course](https://www.codecademy.com/profiles/TheJoSam/certificates/7c3ebc633190492884fdd3a8df67102e) January 5, 2024
 - [Fundamentals Of Cybersecurity Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/06984a073b064e61879cca3e82a9b3d2) January 24, 2024
