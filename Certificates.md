@@ -12,6 +12,7 @@ This Libary will grow over time and I have many other Courses currently.
 ### Universal Certificates
 - [Code Foundations Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/5b55e668646caa552f8e4d1d) October 10, 2023
 * [Introduction to Project Management Course](https://www.codecademy.com/profiles/TheJoSam/certificates/ea041b16233a4bd8a4f30c1dec884ebd) January 31, 2024[^1]
+* [Set Your Workspace Up For Success Course](https://www.codecademy.com/profiles/TheJoSam/certificates/62715c96bbcc4e41bb199c243b94b256) October 14, 2024
 
 ### GitHub
 - [Deploying Websites using Git and GitHub Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5e4c6705f21846aea9ab451bcbfb38ed) February 25, 2024
