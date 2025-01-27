@@ -39,6 +39,10 @@ This Libary will grow over time and I have many other Courses currently.
   - [Learn the Command Line: Redirecting Input and Output Course](https://www.codecademy.com/profiles/TheJoSam/certificates/82bddf61e988444aa3f18c166ab15284) April 20, 2024
 * [Learn Bash Scripting Course](https://www.codecademy.com/profiles/TheJoSam/certificates/37c55263a9f1b1f7603f7551c293ecbd) April 20, 2024[^1]
 
+### C / C# / C++
+- **C**
+  - [Learn C: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/f2ef2f067b374ec785682f7106bb9682) January 27, 2024
+
 ### Linux (And similar)
 - **Linux**
   - [Introduction to Linux: Users and Permissions Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0ff749b093ff48348b8b1b506f0903aa) April 21, 2023
