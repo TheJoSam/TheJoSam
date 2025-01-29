@@ -72,7 +72,9 @@ This Libary will grow over time and I have many other Courses currently.
 
 ### Data Science
 - [Learn the Basics of Regular Expressions Course](https://www.codecademy.com/profiles/TheJoSam/certificates/9da8e26980d5139405439ee7578b8b69) April 17, 2023
-* [Excel Basics Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5b9a2fc11f7242e1b1a4fe1fbd1bf464) April 25, 2023[^1]
+- **EXCEL**
+  - [Excel Basics Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5b9a2fc11f7242e1b1a4fe1fbd1bf464) April 25, 2023[^1]
+  - [Visualize Data with Excel Course](https://www.codecademy.com/profiles/TheJoSam/certificates/89e3ed5507da451ea08ff7ed05756de9) January 29, 2025
 
 ### Python
 - [Learn Python 3 Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6c152bd262967f8c941c9707ed636bda) April 27, 2024
