@@ -44,6 +44,7 @@ This Libary will grow over time and I have many other Courses currently.
 - **C**
   - [Learn C: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/f2ef2f067b374ec785682f7106bb9682) January 27, 2025
   - [Learn C: Variables and Operators Course](https://www.codecademy.com/profiles/TheJoSam/certificates/86db59d467704d41b235e468782cbe1e) January 27, 2025
+  - [Learn C: Conditionals and Loops Course](https://www.codecademy.com/profiles/TheJoSam/certificates/858c39fcc1bd45399911a5aaca615add) January 30, 2025
 
 ### Linux (And similar)
 - **Linux**
