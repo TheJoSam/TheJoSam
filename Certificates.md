@@ -16,7 +16,7 @@ This Libary will grow over time and I have many other Courses currently.
 
 ### GitHub
 - [Deploying Websites using Git and GitHub Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5e4c6705f21846aea9ab451bcbfb38ed) February 25, 2024
-- [Learn GitHub: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/047c980c46ab4dd782820437fedbd42d) April 22, 2024
+- [Learn GitHub: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/047c980c46ab4dd782820437fedbd42d) January 30, 2025
 
 ### AI
 - [Intro to Generative AI Course](https://www.codecademy.com/profiles/TheJoSam/certificates/28ccb695c353465a8785a036ad32d3b9) May 9, 2024
