@@ -6,7 +6,7 @@ This Libary will grow over time and I have many other Courses currently.
 
 ---
 > [!NOTE]
-> Certificates cannot be fully categorized as they sometimes flow into each other or are Certificates of a Programming Language
+> Certificates are categorised how CodeCademy or my own sorting. Please look at all categories if you don't find what you are searching.
 > This makes categorizing harder and is not always possible so please look at all Certificates as I will list them only one time.
 
 ### Universal Certificates
@@ -85,13 +85,14 @@ This Libary will grow over time and I have many other Courses currently.
 ### Computer Science
 - [Choosing a Programming Language Course](https://www.codecademy.com/profiles/TheJoSam/certificates/3d1976adb480406197a8e8765fe3f884) April 17, 2023
 - [Learn How to Code Course](https://www.codecademy.com/profiles/TheJoSam/certificates/11a686a7fd57b8c214f7f92749388d42) October 10, 2023
-- **Computer Architecture**
-  - [Computer Architecture: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/279cc7d4cc4c4ca7b37677ca314f466c) April 19, 2024
-  - [Computer Architecture: Instruction Set Architecture Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6551495d618d4156a8436291b5a93020) April 20, 2024
-  - [Computer Architecture: Assembly Language Course](https://www.codecademy.com/profiles/TheJoSam/certificates/3a71095cc7ab466e9c96d9ff790e78ac) April 21, 2024
+
+### Computer Architecture
+- [Computer Architecture: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/279cc7d4cc4c4ca7b37677ca314f466c) April 19, 2024
+- [Computer Architecture: Instruction Set Architecture Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6551495d618d4156a8436291b5a93020) April 20, 2024
+- [Computer Architecture: Assembly Language Course](https://www.codecademy.com/profiles/TheJoSam/certificates/3a71095cc7ab466e9c96d9ff790e78ac) April 21, 2024
 
 > [!TIP]
-> If you don't find a Certificate or think there could be more. Please look [here](https://www.codecademy.com/profiles/TheJoSam).
+> If you don't find a Certificate there could be more. Please look [here](https://www.codecademy.com/profiles/TheJoSam).
 
 ---
 [^1]: visible in [Linkedin](https://www.linkedin.com/in/sam-mayer-0bb32a305/)
