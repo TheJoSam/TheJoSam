@@ -80,7 +80,7 @@ This Libary will grow over time and I have many other Courses currently.
   - [Visualize Data with Excel Course](https://www.codecademy.com/profiles/TheJoSam/certificates/89e3ed5507da451ea08ff7ed05756de9) January 29, 2025
 
 ### Python
-- [Learn Python 3 Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6c152bd262967f8c941c9707ed636bda) April 27, 2024
+- [Learn Python 3 Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6c152bd262967f8c941c9707ed636bda) April 27, 2024 (updated June 3, 2025)
 - [How to Clean Data with Python Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e773a003314c1be60da8388a90a77e78) January 26, 2023
 
 ### Computer Science
