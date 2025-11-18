@@ -28,8 +28,10 @@ This Libary will grow over time and I have many other Courses currently.
   - [OWASP Top 10: Security Logging and Monitoring Failures Course](https://www.codecademy.com/profiles/TheJoSam/certificates/f28f1463e9cf4a6ea8f8701f0e012681) January 26, 2024
   - [OWASP Top 10: Security Misconfiguration Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0beba7e2eabe433a9ba9f9f6b6e595cc) January 26, 2024
   - [OWASP Top 10: Broken Access Control Course](https://www.codecademy.com/profiles/TheJoSam/certificates/120e9cc325ae4501b0bed05fabc1981b) April 21, 2024
+  - [OWASP Top 10: Injection Attacks Course](https://www.codecademy.com/profiles/TheJoSam/certificates/32c65294d3844874a45ce3b9848fdc13) November 18, 2025
 * [Cybersecurity for Business Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a257b12a3d49d7ab75c20ea15e7d88) January 29, 2024[^1]
 - [Introduction to Cybersecurity Course](https://www.codecademy.com/profiles/TheJoSam/certificates/de0bd5c89521d004ce449a86b0ad3319) January 30, 2024
+- [Becoming a Secure Coder Course](https://www.codecademy.com/profiles/TheJoSam/certificates/90b621d88d884f0fabed4c3fd41e7e7c) November 18, 2025
 
 ### Bash
 - **Command Line**
@@ -80,7 +82,7 @@ This Libary will grow over time and I have many other Courses currently.
   - [Visualize Data with Excel Course](https://www.codecademy.com/profiles/TheJoSam/certificates/89e3ed5507da451ea08ff7ed05756de9) January 29, 2025
 
 ### Python
-- [Learn Python 3 Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6c152bd262967f8c941c9707ed636bda) April 27, 2024 (updated June 3, 2025)
+- [Learn Python 3 Course](https://www.codecademy.com/profiles/TheJoSam/certificates/6c152bd262967f8c941c9707ed636bda) April 27, 2024 (updated November 18, 2025)
 - [How to Clean Data with Python Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e773a003314c1be60da8388a90a77e78) January 26, 2023
 
 ### Computer Science
