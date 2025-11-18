@@ -1,13 +1,11 @@
 # Certificates
-I am a Certified Developer,
-this is a complete list of them with DOC (Document of Completion) and direct link.
+This is a complete list of my Certificates with DOC (Document of Completion) and Direct link.
 
-This Libary will grow over time and I have many other Courses currently.
+This Libary will grow over time.
 
 ---
 > [!NOTE]
-> Certificates are categorised how CodeCademy or my own sorting. Please look at all categories if you don't find what you are searching.
-> This makes categorizing harder and is not always possible so please look at all Certificates as I will list them only one time.
+> Certificates are categorized from CodeCademy's own sorting, please refer to the full list.
 
 ### Universal Certificates
 - [Code Foundations Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/5b55e668646caa552f8e4d1d) October 10, 2023
@@ -52,10 +50,10 @@ This Libary will grow over time and I have many other Courses currently.
 
 ### Linux (And similar)
 - **Linux**
+  * [Introduction to Linux Course](https://www.codecademy.com/profiles/TheJoSam/certificates/54de574543f242baaf263227f82073bf) April 20, 2024[^1]
   - [Introduction to Linux: Users and Permissions Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0ff749b093ff48348b8b1b506f0903aa) April 21, 2023
   - [Introduction to Linux: Installation Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a7afb40f7a4567931961bf1624b4b3) April 21, 2023
   - [Introduction to Linux: Bash Scripting Course](https://www.codecademy.com/profiles/TheJoSam/certificates/eed44424eb684a0aaddf054e46c50567) February 3, 2024
-  * [Introduction to Linux Course](https://www.codecademy.com/profiles/TheJoSam/certificates/54de574543f242baaf263227f82073bf) April 20, 2024[^1]
 - **Raspberry Pi**
   - [Learn Raspberry Pi Course](https://www.codecademy.com/profiles/TheJoSam/certificates/f6a7750cc41a463cacb30185ea8e5c7c) April 20, 2024
   - [Learn Raspberry Pi: Introduction Course](https://www.codecademy.com/profiles/TheJoSam/certificates/e5d0f9258b754ba88f14abde6a5fe2d7) January 30, 2024
@@ -95,7 +93,7 @@ This Libary will grow over time and I have many other Courses currently.
 - [Computer Architecture: Assembly Language Course](https://www.codecademy.com/profiles/TheJoSam/certificates/3a71095cc7ab466e9c96d9ff790e78ac) April 21, 2024
 
 > [!TIP]
-> If you don't find a Certificate there could be more. Please look [here](https://www.codecademy.com/profiles/TheJoSam).
+> If you don't find a Certificate, you can find all of them [here](https://www.codecademy.com/profiles/TheJoSam).
 
 ---
 [^1]: visible in [Linkedin](https://www.linkedin.com/in/sam-mayer-0bb32a305/)
