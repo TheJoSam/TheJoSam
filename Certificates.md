@@ -18,6 +18,7 @@ This Libary will grow over time.
 
 ### AI
 - [Intro to Generative AI Course](https://www.codecademy.com/profiles/TheJoSam/certificates/28ccb695c353465a8785a036ad32d3b9) May 9, 2024
+- [Intro to AI Agents Course](https://www.codecademy.com/profiles/TheJoSam/certificates/29409e6e995f4c68ae93d6265a747feb) November 19, 2025
 
 ### Cybersecurity
 - [Introduction to Personal Digital Security Course](https://www.codecademy.com/profiles/TheJoSam/certificates/7c3ebc633190492884fdd3a8df67102e) January 5, 2024
