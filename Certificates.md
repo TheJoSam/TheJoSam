@@ -5,12 +5,15 @@ This Libary will grow over time.
 
 ---
 > [!NOTE]
-> Certificates are categorized from CodeCademy's own sorting, please refer to the full list.
+> Certificates are categorized from CodeCademy's own sorting, please refer to the full list for full Skill evaluation.
 
 ### Universal Certificates
 - [Code Foundations Skill Path](https://www.codecademy.com/profiles/TheJoSam/certificates/5b55e668646caa552f8e4d1d) October 10, 2023
 * [Introduction to Project Management Course](https://www.codecademy.com/profiles/TheJoSam/certificates/ea041b16233a4bd8a4f30c1dec884ebd) January 31, 2024[^1]
 * [Set Your Workspace Up For Success Course](https://www.codecademy.com/profiles/TheJoSam/certificates/62715c96bbcc4e41bb199c243b94b256) October 14, 2024
+
+### Cloud Computing
+- [Intro to Cloud Computing Course](https://www.codecademy.com/profiles/TheJoSam/certificates/1353857e7ad5c1d0d578073e0d5e31e4) November 24, 2025
 
 ### GitHub
 - [Deploying Websites using Git and GitHub Course](https://www.codecademy.com/profiles/TheJoSam/certificates/5e4c6705f21846aea9ab451bcbfb38ed) February 25, 2024
@@ -28,6 +31,7 @@ This Libary will grow over time.
   - [OWASP Top 10: Security Misconfiguration Course](https://www.codecademy.com/profiles/TheJoSam/certificates/0beba7e2eabe433a9ba9f9f6b6e595cc) January 26, 2024
   - [OWASP Top 10: Broken Access Control Course](https://www.codecademy.com/profiles/TheJoSam/certificates/120e9cc325ae4501b0bed05fabc1981b) April 21, 2024
   - [OWASP Top 10: Injection Attacks Course](https://www.codecademy.com/profiles/TheJoSam/certificates/32c65294d3844874a45ce3b9848fdc13) November 18, 2025
+  - [OWASP Top 10: Software and Data Integrity Failures Course](https://www.codecademy.com/profiles/TheJoSam/certificates/ef319b8970354381911ad39b69e93069) November 24, 2025
 * [Cybersecurity for Business Course](https://www.codecademy.com/profiles/TheJoSam/certificates/a2a257b12a3d49d7ab75c20ea15e7d88) January 29, 2024[^1]
 - [Introduction to Cybersecurity Course](https://www.codecademy.com/profiles/TheJoSam/certificates/de0bd5c89521d004ce449a86b0ad3319) January 30, 2024
 - [Becoming a Secure Coder Course](https://www.codecademy.com/profiles/TheJoSam/certificates/90b621d88d884f0fabed4c3fd41e7e7c) November 18, 2025
